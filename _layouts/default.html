@@ -9,10 +9,10 @@
   <div id="container">
     <div id="top">
       <div class="inner">
-        <h1>
-          <a href="{{ '/' | relative_url }}" class="logo"><img src="/pub/octopus.svg" /></a>
-          {% if page.title %}{{ page.title | escape }}{% else %}Octopus Blog{% endif %}
-        </h1>
+        <a href="{{ '/' | relative_url }}">
+          <img class="logo" src="/pub/octopus.svg" />
+          <span class="branding">Octopus Blog</span>
+        </a>
       </div>
     </div>
 
