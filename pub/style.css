@@ -14,7 +14,7 @@ a:hover { color: #23527c; text-decoration: underline; }
 #top .logo { height: 40px; padding-right: 20px; }
 #top .branding { color: #fff; text-shadow: 0 1px 1px #777; font-size: 24px; font-weight: 400; top: -10px; position: relative; }
 
-.inner {width:1000px; margin:0 auto; padding: 0 10px;}
+.inner {max-width:1000px; margin:0 auto; padding: 0 10px;}
 #mainContent .inner {margin-top: 30px;line-height:1.7em;font-size:1.1em}
 
 ul,ol,li {padding:0;margin:0;list-style:none}
