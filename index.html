@@ -11,7 +11,8 @@ layout: default
       </h2>
       <p class="meta">{{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</p>
       <div class="body">{{ post.content | split: '<!-- more -->' | first }}</div>
-      <a href="{{ post.url }}">Continue reading</a>
+      <a class="fR" href="{{ post.url }}">Continue reading</a>
+      <br class="cB" />
     </li>
   {% endfor %}
   </ul>
