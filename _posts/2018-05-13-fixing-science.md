@@ -23,6 +23,8 @@ banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
 
 <p>I trained as a biologist, but then spent my career in the media. When I came back to academia in October 2016 I was really shocked to see how much the incentive structure in sciennce was driving researchers to become - essentially 'journalists'. Scientists and their work are judged almost exclusively on how many papers they can get published in journals and how many people read them, just like journalists. But this isn't the way to reward good scientific work. In fact, it often rewards exactly the opposite. So I see a complete overhaul of the scientific publishing system as the only way to start rewarding good scientific practice, and to encourage a collaborative, efficient, and therefore more successful and meritocractic global endeavour. </p>
 
+<!-- more -->
+
 <p>Below I list some of the problems I see in science, and how I think Octopus might help alleviate them:</p>
 
   <h3>‘Publish or perish’ mentality driving authorship</h3>

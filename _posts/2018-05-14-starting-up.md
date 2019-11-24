@@ -16,10 +16,12 @@ description: >
 banner: "img/blog-images/header-images/radarwheel.png"
 ---
 
-<div id="starting-up" class="section level2">
+
   <h2>How Octopus might start up and change the status quo in scientific publishing</h2>
   <p>Most people agree that the idea behind Octopus is a good one, and also that it is technically achievable. Many, though, fear that it will not work in reality because the status quo in science is so well established. <b>Journals</b> are hugely profitable commercial enterprises and hence naturally resistant to any change that will undermine that. <b>Scientists</b> are judged almost exclusively on how many papers they publish and in which journals (ranked by 'reputation') and so anyone stepping outside of that established system and publishing in a place other than an accepted journal risks that work not being recognised by academic recruitment and promotion panels. <b>Science funders</b> have some influence, because they literally hold the purse strings and so can stipulate that in order to obtain funding, researchers must publish their work in a certain way or in a certain place. <b>Academic institutions</b> who hire and promote scientific researchers can also wield power by making clear how they will assess candidates.</p>
   <p> Out of these players in the game, then, where are the incentives to change the scientific publishing system so radically as to move to something like Octopus? I'll go through each in turn and outline why I think they would see an advantage and how they could shift from one system to another in a practical sense.</p>
+
+  <!-- more -->
 
   <h3>Academic institutions</h3>
   <p>Academic institutions have multiple roles to fill in the world of scientific publishing. Firstly, they are the main purchasers of traditional journal subscriptions. Many people do not realise how expensive the traditional scientific publishing system is. Major UK universities are paying tens of millions of pounds each year to the top 10 journal publishers (see <a href="https://figshare.com/articles/Journal_subscription_costs_FOIs_to_UK_universities/1186832">this spreadsheet</a>). That is money that institutions desperately need to spend elsewhere. In some countries universities have started to boycott expensive journals in order to try to force negotiations on price, but so far those negotiations are at stalemate. There is, therefore, a huge financial incentive and a willingness on the part of some universities internationally to move to a cheaper system, and one where they are not 'held over a barrel' by commercial companies. This should mean they hugely favour a system like Octopus.</p>
@@ -54,6 +56,3 @@ banner: "img/blog-images/header-images/radarwheel.png"
 <br>
 <p>These, then, are the reasons why I feel that Octopus is not an impossible pipe-dream. It may be a long road ahead to replace the scientific publishing model with something better, but if we can find agreement on what 'something better' would look like and then technically build it, the final stage of driving adoption should be possible. I think it's a matter of understanding what binds each of us to the current publishing model and ensuring that the replacement system surpasses the current one in all those important ways. That, and building the social and media momentum needed to drive traffic to it.</p>
 <p>The first stage, however, is to start building Octopus. It may not be perfect in all its planned features yet, but until we start building it I don't think it's possible to see where it needs tweaking and improvement. Nobody seems to think that its technical specification is particularly difficult/impossible and many existing tools can be pulled into its construction. We just need to work together to do that. Do look at our baby <a href="https://github.com/octopus-hypothesis">GitHub repository</a> and help us start out.</p>
-
-
-  </div>

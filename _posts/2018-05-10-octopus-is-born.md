@@ -16,11 +16,13 @@ description: >
 banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
 ---
 
-## Welcome to the Octopus project!
+**Welcome to the Octopus project!**
 
 The idea of Octopus is to create a one-stop place for all scientific research… Freely open to all and language agnostic.
 
 Thinking ‘what would we want science to look like if we started again?’ Octopus is designed to be a community-owned platform, using several Open publishing tools already developed and encouraging others to develop more to make it serve the needs of science.
+
+<!-- more -->
 
 ## Main Concepts
 

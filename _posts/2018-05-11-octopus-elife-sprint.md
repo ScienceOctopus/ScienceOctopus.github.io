@@ -16,9 +16,11 @@ description: >
 banner: "img/team-photo.png"
 ---
 
-## Two days of incredible teamwork
+**Two days of incredible teamwork**
 
 What an intense couple of days! Since eLife Sprint kicked off yesterday morning, 60 participants have formed small and diverse groups and worked on their open science projects. We've seen some amazing progress in the last 48 hours - from the inception of ideas to website and application design to content creation. Our 12-person team (including software developers, researchers, science communicators, UX designers, and publishers) has been working hard on creating a comprehensive tool to change the way scientific publishing is done.
+
+<!-- more -->
 
 Taking things forward, we want to share the potential of this tool with the world (espsecially institutions/funding bodies) and recruit people interested in developing this further.
 
