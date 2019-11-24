@@ -1,8 +1,8 @@
 html { position: relative; min-height: 100%; }
 body { color: #555; background-color: #fff; font-family: Roboto, Helvetica, Arial, sans-serif; font-weight: 300; font-size:16px; margin:0;}
 
-a { color: #ada3ed; text-decoration: none; transition: color 0.2s }
-a:hover { color: #9f90ed; text-decoration: underline; }
+a { color: #337ab7; text-decoration: none; transition: color 0.2s }
+a:hover { color: #23527c; text-decoration: underline; }
 
 .sr-only {visibility: hidden}
 
@@ -12,6 +12,7 @@ a:hover { color: #9f90ed; text-decoration: underline; }
 #top, #top a {text-decoration:none}
 #top h1 {margin: 0}
 #top .logo { height: 40px; padding-right: 20px; }
+#top .branding { color: #000; font-size: 24px; font-weight: 400; top: -10px; position: relative; }
 
 .inner {width:1000px; margin:0 auto; padding: 0 10px;}
 #mainContent .inner {margin-top: 30px;line-height:1.7em;font-size:1.1em}
