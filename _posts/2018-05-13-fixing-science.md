@@ -16,8 +16,8 @@ description: >
 banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
 ---
 
-<div id="what-is-wrong-in-science" class="section level2">
-  <h2>What is wrong in science and what Octopus can do to help</h2>
+
+**What is wrong in science and what Octopus can do to help**
 
 <p>Those working in science today recognise a whole host of problems. Octopus aims to tackle many of these through changing the way that science is published.</p>
 
@@ -125,6 +125,3 @@ In terms of translation, there are now very impressive automatic translation too
 <p>Contributing to Octopus: We are just starting out. Please feel free to browse and contribute!
 
   <a href="https://github.com/octopus-hypothesis">GitHub</a></p>
-
-
-</div>
