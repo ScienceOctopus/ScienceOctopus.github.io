@@ -1,0 +1,8 @@
+# Site settings
+title: scienceoctopus.github.io
+description: Static page for scienceoctopus.github.io
+
+# Build settings
+markdown: kramdown
+exclude: []
+source:

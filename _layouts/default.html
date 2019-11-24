@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% if page.title %}{{ page.title }}{% else %}Octopus Blog{% endif %}</title>
+</head>
+<body>
+  <div id="container">
+    <div id="top">
+      <div class="inner">
+        <h1>
+          <a href="{{ '/' | relative_url }}" class="logo"><img src="/pub/octopus.svg" /></a>
+          {% if page.title %}{{ page.title | escape }}{% else %}Octopus Blog{% endif %}
+        </h1>
+      </div>
+    </div>
+
+    <div id="mainContent">
+      {{ content }}
+    </div>
+
+    <div id="imports">
+      <link rel="stylesheet" href="{{ '/pub/style.css' | relative_url }}" type="text/css" charset="utf-8" />
+      <link rel="stylesheet" href="{{ '/pub/fonts/Roboto.css' | relative_url }}" type="text/css" charset="utf-8" />
+      <link rel="icon" type="image/png" href="{{ '/favicon.ico' | relative_url }}">
+    </div>
+  </div>
+</body>
+</html>
