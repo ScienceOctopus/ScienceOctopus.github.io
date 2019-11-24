@@ -11,8 +11,6 @@ description: >
 banner: "img/blog-images/header-images/HomePage.png"
 ---
 
-## The Octopus prototype is nearly here!
-
 The prototype that the team from Imperial College built has been taken to the next stage by the lovely software engineering team at company [WinGravity](https://www.wingravity.com).
 
 <!-- more -->

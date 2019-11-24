@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Octopus: the build begins"
+title: "The Octopus build begins!"
 author: Alex Freeman
 categories:
   - update
@@ -10,8 +10,6 @@ description: >
   Octopus starts to take shape as a working prototype
 banner: "img/blog-images/header-images/WorkingVersion.png"
 ---
-
-## The Octopus build begins!
 
 It's been a long time since I updated the blog, for which I must apologise - but so much has been happening!
 
