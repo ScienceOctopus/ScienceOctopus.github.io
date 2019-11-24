@@ -11,9 +11,10 @@ description: >
 banner: "img/blog-images/header-images/HomePage.png"
 ---
 
-## The Octopus prototype is nearly here!
+<h2>The Octopus prototype is nearly here!</h2>
 
 <p>The prototype that the team from Imperial College built has been taken to the next stage by the lovely software engineering team at company <a href="https://www.wingravity.com">WinGravity</a>.</p>
+
 <!-- more -->
 
 <p>Wingravity have added the ability for people to rate publications and increased the functionality of the upload mechanism so that publications can now be uploaded as .docx documents. The text, images and tables are then all converted to html, so that the authors can tweak the formatting if required before publishing. This makes Octopus already a much more flexible and user-friendly publication platform than most commercial journals. No need for tedious and expensive proof-reading or reformatting.</p>
