@@ -35,8 +35,10 @@ h3, h4 {font-size:20px}
 .small {font-size:0.8em}
 .large {font-size:1.4em}
 
-/* ::selection {background:#1A99C3;color:white}
-::-moz-selection {background:#1A99C3;color:white} */
+/*
+::selection {background:#9891c5;color:white}
+::-moz-selection {background:#9891c5;color:white}
+*/
 
 .col.half {float:left; width:49%;margin-right:1%}
 .col.third {float:left; width:32%;margin-right:1%}
@@ -61,4 +63,5 @@ img.fullwidth {width:100%;max-width:1200px}
 .post:last-of-type { border-bottom: none }
 .post .meta { margin: 0; font-size: 0.9em; opacity: 0.7; }
 .post .title { margin: 0; }
-.post .image { max-width: 300px; max-height: 150px; float: left; margin: 25px 25px 25px 0}
+.post .hero { max-height: 300px; margin: 25px 0}
+.post .thumb { max-width: 300px; max-height: 180px; float: left; margin: 25px 25px 25px 0}

@@ -11,7 +11,8 @@ layout: default
       </h2>
       <p class="meta">{{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</p>
 
-      <img src="{{ post.banner }}" class="image" />
+      <img src="{{ post.banner }}" class="thumb" />
+
       <div class="body">{{ post.content | split: '<!-- more -->' | first }}</div>
       <a class="fR" href="{{ post.url }}">Continue reading</a>
       <br class="cB" />

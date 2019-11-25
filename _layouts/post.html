@@ -6,7 +6,10 @@ layout: default
     <h1 class="title">{{ page.title | escape }}</h1>
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
 
-    <img src="{{ page.banner }}" class="image" />
+    <div>
+      <img src="{{ page.banner }}" class="fullwidth hero" />
+    </div>
+
     <div class="body">{{ content }}</div>
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   </article>
