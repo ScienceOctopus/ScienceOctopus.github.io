@@ -2,18 +2,11 @@
 layout: post
 title: "How could Octopus break the status quo?"
 author: Alex Freeman
-date: '2018-05-14'
-slug: starting_up
 categories:
   - update
-tags:
-  - update
-draft: no
-editor_options:
-  chunk_output_type: console
 description: >
   How Octopus might start up and change the status quo in scientific publishing
-banner: "img/blog-images/header-images/radarwheel.png"
+banner: "/img/radarwheel.png"
 ---
 
 

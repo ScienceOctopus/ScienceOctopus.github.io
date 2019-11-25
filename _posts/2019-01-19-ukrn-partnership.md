@@ -2,18 +2,11 @@
 layout: post
 title: "Octopus goes into partnership with the UK Reproducibility Network"
 author: Alex Freeman
-date: '2019-01-19'
-slug: UKRN
 categories:
   - update
-tags:
-  - update
-draft: no
-editor_options:
-  chunk_output_type: console
 description: >
   Octopus and the UKRN go into partnership
-banner: "img/blog-images/header-images/UKRN.png"
+banner: "/img/UKRN.png"
 ---
 **Octopus and the UKRN**
 

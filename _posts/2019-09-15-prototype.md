@@ -4,11 +4,9 @@ title: "Octopus: the prototype approaches the next user-testing phase"
 author: Alex Freeman
 categories:
   - update
-tags:
-  - update
 description: >
   The prototype approaches the next user-testing phase
-banner: "img/blog-images/header-images/HomePage.png"
+banner: "/img/HomePage.png"
 ---
 
 The prototype that the team from Imperial College built has been taken to the next stage by the lovely software engineering team at company [WinGravity](https://www.wingravity.com).

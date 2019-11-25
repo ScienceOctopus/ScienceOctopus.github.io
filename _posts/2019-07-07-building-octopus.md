@@ -4,11 +4,9 @@ title: "The Octopus build begins!"
 author: Alex Freeman
 categories:
   - update
-tags:
-  - update
 description: >
   Octopus starts to take shape as a working prototype
-banner: "img/blog-images/header-images/WorkingVersion.png"
+banner: "/img/WorkingVersion.png"
 ---
 
 It's been a long time since I updated the blog, for which I must apologise - but so much has been happening!

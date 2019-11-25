@@ -2,18 +2,11 @@
 layout: post
 title: "Octopus @ eLife Sprint"
 author: Ally Dillenburg
-date: '2018-05-11'
-slug: octopus-elife-sprint
 categories:
   - update
-tags:
-  - update
-draft: no
-editor_options:
-  chunk_output_type: console
 description: >
-  Our second post is an update on all the work we've been doing at eLifeSprint2018.
-banner: "img/team-photo.png"
+  Our second post is an update on all the work we've been doing at eLife Sprint 2018.
+banner: "/img/team-photo.png"
 ---
 
 **Two days of incredible teamwork**

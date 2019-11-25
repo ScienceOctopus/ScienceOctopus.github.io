@@ -2,18 +2,11 @@
 layout: post
 title: "Octopus is born"
 author: Alex Freeman
-date: '2018-05-10'
-slug: octopus-is-born
 categories:
   - update
-tags:
-  - update
-draft: no
-editor_options:
-  chunk_output_type: console
 description: >
-  Our first blogpost introduces the goals of the octopus platform and how we aim to change the way scientific publishing works.
-banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
+  Our first blogpost introduces the goals of the Octopus platform and how we aim to change the way scientific publishing works.
+banner: "/img/2018-05-10_octopus-is-born.png"
 ---
 
 **Welcome to the Octopus project!**
@@ -57,4 +50,4 @@ Contributing to Octopus We are just starting out. Please feel free to browse and
 
 [GitHub page](https://github.com/octopus-hypothesis)
 
-<center><img src='/img/blog-images/header-images/2018-05-10_octopus-is-born.png' width='200px'></img></center>
+<center><img src="/img/2018-05-10_octopus-is-born.png" width="200" /></center>

@@ -2,18 +2,11 @@
 layout: post
 title: "Fixing Science"
 author: Alex Freeman
-date: '2018-05-13'
-slug: fixing-science
 categories:
   - update
-tags:
-  - update
-draft: no
-editor_options:
-  chunk_output_type: console
 description: >
   What Octopus aims to fix about science.
-banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
+banner: "/img/2018-05-10_octopus-is-born.png"
 ---
 
 
