@@ -6,7 +6,7 @@ categories:
   - update
 description: >
   The prototype approaches the next user-testing phase
-banner: "/img/HomePage.png"
+banner: "/img/Beta-HomePage.png"
 ---
 
 The prototype that the team from Imperial College built has been taken to the next stage by the lovely software engineering team at company [WinGravity](https://www.wingravity.com).
