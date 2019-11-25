@@ -61,3 +61,4 @@ img.fullwidth {width:100%;max-width:1200px}
 .post:last-of-type { border-bottom: none }
 .post .meta { margin: 0; font-size: 0.9em; opacity: 0.7; }
 .post .title { margin: 0; }
+.post .image { max-width: 200px; max-height: 100px; float: left; }

@@ -5,6 +5,8 @@ layout: default
   <article class="post">
     <h1 class="title">{{ page.title | escape }}</h1>
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+
+    <img src="{{ post.banner }}" class="image" />
     <div class="body">{{ content }}</div>
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   </article>

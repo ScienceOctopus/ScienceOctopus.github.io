@@ -10,6 +10,8 @@ layout: default
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
       <p class="meta">{{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</p>
+
+      <img src="{{ post.banner }}" class="image" />
       <div class="body">{{ post.content | split: '<!-- more -->' | first }}</div>
       <a class="fR" href="{{ post.url }}">Continue reading</a>
       <br class="cB" />
