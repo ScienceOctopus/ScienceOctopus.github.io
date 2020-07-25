@@ -7,7 +7,7 @@ categories:
   - update
 description: >
   A long-overdue update on Octopus!
-banner: "/img/Demo-HomePage.png"
+banner: "/img/CovidPublication.png"
 ---
 
 I'm so sorry that I haven't been updating this blog! Octopus has, as you may have noticed, grown in functionality and beauty with a lot of work from technical achitect Vot and the software company [WinGravity](https://www.wingravity.com).
