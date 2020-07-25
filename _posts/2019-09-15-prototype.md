@@ -19,4 +19,4 @@ Now technical architect Vot is tidying up the API before we can do the final pol
 
 This prototype development brings us to the end of the mini science grant from Mozilla, which has been a fantastic boost for Octopus, taking us to the first stage of development.
 
-As ever, if you'd like to give any feedback, or have a sneak prevew of the prototype, do email me. We'd love to have as much user-input as possible. alex.freeman@maths.ac.uk
+As ever, if you'd like to give any feedback, or have a sneak prevew of the prototype, do email me. We'd love to have as much user-input as possible. alex.freeman@maths.cam.ac.uk
