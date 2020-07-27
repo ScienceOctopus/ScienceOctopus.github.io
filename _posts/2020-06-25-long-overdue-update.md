@@ -18,14 +18,16 @@ The coronavirus pandemic hit just as we were sending out links to [the prototype
 
 Coverage of Octopus has been bringing in interest, though.
 
-I wrote blogs for:
+Dr Andy Vonasch, a lecturer in psychology at the University of Canterbury in New Zealand ran a workshop at the Society for the Improvement of Psychological Science in June using Octopus, and garnered a huge amount of wonderfully useful feedback from participants who tried the system out.
+
+Additionally, I wrote blogs for:
 
 [Wonkhe](https://wonkhe.com/blogs/the-journal-publication-system-betrays-the-purpose-of-science/?doing_wp_cron=1595415984.0445299148559570312500) on how the scientific publishing system fails to help science because of the incentive structure it creates.
 
 [Royal Society of Biology](https://www.rsb.org.uk/component/content/article/159-biologist/opinion/2349-could-the-current-crisis-help-the-research-community-move-to-a-new-models-of-publishing?Itemid=531) on how the COVID-19 crisis highlights the need for Octopus.
 
 And I gave a talk to:
-[The RIOTS Club at KCL](https://www.youtube.com/watch?v=ZL2dUA7PPeE) which was recorded and has me giving a little tour of Octopus.
+[The RIOTS Club at KCL](https://www.youtube.com/watch?v=ZL2dUA7PPeE) which was recorded, and has me giving a little tour of Octopus.
 
 An interview about Octopus was published in [Research Information](https://www.researchinformation.info/company/octopus) and on the JISC website, which brought in a lot of emails from all over the world!
 
