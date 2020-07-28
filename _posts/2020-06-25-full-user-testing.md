@@ -11,7 +11,7 @@ banner: "/img/CovidPublication.png"
 
 I'm so sorry that I haven't been updating this blog! Octopus has, as you may have noticed, grown in functionality and beauty with a lot of work from technical achitect Vot and the software company [WinGravity](https://www.wingravity.com).
 
-The coronavirus pandemic hit just as we were sending out links to [the prototype](demo.science-octopus.org) for people to test, which was difficult timing. On the other hand, the pandemic has really brought sharply into focus the need for reform of the scientific publishing system. I have wanted to shout 'Octopus is here for these very reasons!' very loudly from the rooftops, but have also been extremely busy in my day-job helping respond to the pandemic.
+The coronavirus pandemic hit just as we were sending out links to [the prototype](https://demo.science-octopus.org) for people to test, which was difficult timing. On the other hand, the pandemic has really brought sharply into focus the need for reform of the scientific publishing system. I have wanted to shout 'Octopus is here for these very reasons!' very loudly from the rooftops, but have also been extremely busy in my day-job helping respond to the pandemic.
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Dr Andy Vonasch, a lecturer in psychology at the University of Canterbury in New
 
 Additionally, I wrote blogs for:
 
-[Wonkhe](https://wonkhe.com/blogs/the-journal-publication-system-betrays-the-purpose-of-science/?doing_wp_cron=1595415984.0445299148559570312500) on how the scientific publishing system fails to help science because of the incentive structure it creates.
+[Wonkhe](https://wonkhe.com/blogs/the-journal-publication-system-betrays-the-purpose-of-science/) on how the scientific publishing system fails to help science because of the incentive structure it creates.
 
 [Royal Society of Biology](https://www.rsb.org.uk/component/content/article/159-biologist/opinion/2349-could-the-current-crisis-help-the-research-community-move-to-a-new-models-of-publishing?Itemid=531) on how the COVID-19 crisis highlights the need for Octopus.
 
