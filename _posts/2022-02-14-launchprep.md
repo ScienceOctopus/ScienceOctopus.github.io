@@ -6,7 +6,7 @@ categories:
   - update
 description: >
   Another even more long-overdue update on Octopus!
-banner: "/img/CovidPublication.png"
+banner: "/img/octohomepage.png"
 ---
 
 Again I must apologise that I've not been keeping this blog up to date. Octopus has grown hugely in the last year or so and is about to launch as a full, working platform - funded by the [UKRI](https://www.ukri.org/news/funding-agreed-for-a-platform-that-will-change-research-culture/), and in partnership with [Jisc](https://www.jisc.ac.uk/rd/projects/octopus-creating-a-new-primary-research-record-for-science) and the UK Reproducibility Network (UKRN).
