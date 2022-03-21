@@ -18,6 +18,6 @@ The current Octopus prototype is at [https://octopuspublishing.org](https://octo
 
 If you want to be part of the user-testing over the coming months, then do let us know: the new project manager at Jisc is Lola Harre (lola.harre@jisc.ac.uk) and you can send her an email directly. We're looking for people at all career stages, in all fields, and doing all kinds of research (both hypothesis-driven and not; qualitative as well as quantitative).
 
-Hopefully in the run-up to Junbe you'll hear more about Octopus from different sources. We have slide decks you can use if you want to help spread the word! It's going to be quite a big shift to get everyone to change to this new way of thinking about how they approach their research work and how they share it - but I do think it will help change the research culture if we do.
+Hopefully in the run-up to June you'll hear more about Octopus from different sources. We have slide decks you can use if you want to help spread the word! It's going to be quite a big shift to get everyone to change to this new way of thinking about how they approach their research work and how they share it - but I do think it will help change the research culture if we do.
 
 Alex
